@@ -11,7 +11,7 @@ intro: |
   The vision of the lab is.
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [all the members of the lab](https://dioxineslab.netlify.app/staff/) for her help naming this website work!
 ---
 
 ** index doesn't contain a body, just front matter above.
