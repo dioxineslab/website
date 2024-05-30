@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "ttps://dioxineslab.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Dioxines Lab"
