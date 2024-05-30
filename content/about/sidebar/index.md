@@ -9,10 +9,8 @@ link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Dioxines
   url: https://en.wikipedia.org/wiki/Dioxines
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Mass Spec
+  url: https://en.wikipedia.org/wiki/Mass_Spec
 ---
 
 ** index doesn't contain a body, just front matter above.
