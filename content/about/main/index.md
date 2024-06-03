@@ -14,6 +14,8 @@ intro: |
   
   ![dioxin](dioxin.png)
   
+  <img src="images/dioxin.png" alt="aaaaa" width="100px"/>
+  
   
   
   
