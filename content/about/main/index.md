@@ -12,9 +12,9 @@ intro: |
   
   The members of the Lab are:
   
-  ![dioxin](dioxin.png)
+  ![dioxin](dioxin.jpg)
   
-  <img src="images/dioxin.png" alt="aaaaa" width="100px"/>
+  <img src="images/dioxin.jpg" alt="aaaaa" width="100px"/>
   
   
   
