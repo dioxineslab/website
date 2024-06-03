@@ -9,9 +9,17 @@ intro: |
   The mission of the Dioxines Lab is.
   
   The vision of the lab is.
+  
+  The members of the Lab are:
+  
+  ![dioxin](dioxin.png)
+  
+  
+  
+  
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [all the members of the lab](https://dioxineslab.netlify.app/staff/) for her help naming this website work!
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to **all the members of the lab** for their help naming this website work!
 ---
 
 ** index doesn't contain a body, just front matter above.
