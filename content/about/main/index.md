@@ -6,11 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  The mission of the Dioxines Lab is.
+  The **mission** of the Dioxines Lab is.
   
-  The vision of the lab is.
+  The **vision** of the lab is.
   
-  The members of the Lab are:
+  The **members** of the Lab are:
   
 AAA 
 
